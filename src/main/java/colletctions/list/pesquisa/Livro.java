@@ -1,4 +1,4 @@
-package colletctions.list.pesquisa;
+package main.java.colletctions.list.pesquisa;
 
 public class Livro {
     private String titulo;

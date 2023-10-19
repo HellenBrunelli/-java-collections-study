@@ -1,4 +1,4 @@
-package colletctions.list.operacoes;
+package main.java.colletctions.list.operacoes;
 
 public class Tarefa {
     // atributo descrição
