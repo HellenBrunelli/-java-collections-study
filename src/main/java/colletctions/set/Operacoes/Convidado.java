@@ -1,4 +1,4 @@
-package main.java.colletctions.set;
+package main.java.colletctions.set.Operacoes;
 
 public class Convidado {
     private String nome;

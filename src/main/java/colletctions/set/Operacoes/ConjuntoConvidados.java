@@ -1,4 +1,4 @@
-package main.java.colletctions.set;
+package main.java.colletctions.set.Operacoes;
 
 import java.util.HashSet;
 import java.util.Set;
